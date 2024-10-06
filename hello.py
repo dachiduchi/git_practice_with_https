@@ -1,0 +1,1 @@
+print("sqeli zangi")
